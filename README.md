@@ -2,22 +2,17 @@
 
 # Poke3D
 
-## Our Goal
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+## What i used
 
-## What You'll Make
-
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
-
-## What you will learn
-
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
+* The Swift ARKit
+* The touch detection
 * Functions with outputs
-* How to use the ProgressView
+* Overlaying virtual objects on real world objects.
+* Writing coordinates of the object in 3D virtual environment
+* Making the object rotate in a 3D virtual environment
+* Photo detection in 3D virtual environment
+* Moving 3D objects 
 
 
 ![banner resmi](https://r.resimlink.com/Uqkcmv5d.png)
