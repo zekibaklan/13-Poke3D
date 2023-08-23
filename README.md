@@ -6,13 +6,14 @@
 ## What i used
 
 * The Swift ARKit
-* The touch detection
 * Functions with outputs
+* Photo detection in 3D virtual environment
+* Play video in 3D environment
 * Overlaying virtual objects on real world objects.
 * Writing coordinates of the object in 3D virtual environment
 * Making the object rotate in a 3D virtual environment
-* Photo detection in 3D virtual environment
-* Moving 3D objects 
+
+ 
 
 
 ![banner resmi](https://r.resimlink.com/Uqkcmv5d.png)
